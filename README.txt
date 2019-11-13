@@ -1,6 +1,6 @@
 Panjab University CET (PG) Admission
 - [x] Prospectus 2019
-- [x] Question papers
+- [ ] previous years (12) Question papers
 - [ ] Syllabus
 
 Websites
