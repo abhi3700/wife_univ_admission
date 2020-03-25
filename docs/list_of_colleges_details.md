@@ -1,0 +1,159 @@
+# Details of colleges with PG Admission for MA English Course
+##  St. Xavier's University, Kolkata
+### Website
+* Official Website - https://www.sxuk.edu.in/default.htm
+* PG Admission - https://www.sxuk.edu.in/admissions/sxuk-PGadmission.htm
+<p align="center">
+  <img src="../images/st_xaviers_univ_ma_english.png" alt="" width="" height="">
+</p>
+> __NOTE:__
+<p align="center">
+  <img src="../images/st_xaviers_univ_ma_english_note.png" alt="" width="" height="">
+</p>
+
+* Important Dates
+<p align="center">
+  <img src="../images/st_xaviers_univ_ma_english_imp_dates.png" alt="" width="" height="">
+</p>
+	- Click __[HERE](http://sxuk.org/default.aspx)__ for online application.
+* Scholarship
+<p align="center">
+  <img src="../images/st_xaviers_univ_scholarship.png" alt="" width="" height="">
+</p>
+	- For more, click __[HERE](https://www.sxuk.edu.in/studentsSection/sxuk-Scholarship.htm)__
+
+### MBA
+* Official Website - https://www.sxuk.edu.in/xbs/default.htm
+<p align="center">
+  <img src="../images/st_xaviers_univ_mba.png" alt="" width="" height="">
+</p>
+
+* Click __[HERE](https://www.sxuk.org/mba-default.aspx)__ for online application
+
+## Calcutta University
+* Form starting date: __09-July-2020__ in CU website.
+* Form last date: __16-July-2020__
+
+## Jadavpur University
+* Official Website - http://www.jaduniv.edu.in/
+* Eligibility Criteria
+<p align="center">
+  <img src="../images/ju_ma_english_eligibility_criteria.png" alt="" width="" height="">
+</p>
+
+## Presidency University
+* Official Website - https://presiuniv.ac.in/web/index.php
+* Admission page - https://presiuniv.ac.in/web/admission.php
+* Admission to PG courses - 2020. #FOLLOW
+<p align="center">
+  <img src="../images/presidency_univ_ma_admission.png" alt="" width="" height="">
+</p>
+* Admission Guidelines
+<p align="center">
+  <img src="../images/presidency_univ_admission_guidelines.png" alt="" width="" height="">
+</p>
+
+## West Bengal State University (WBSU)
+* Official Website - https://presiuniv.ac.in/web/index.php
+* Admission page - https://wbsu.ac.in/admission-notice/
+<p align="center">
+  <img src="../images/wbsu_all_admission_notice.png" alt="" width="" height="">
+</p>
+
+* Eligibility Criteria - https://www.wbsupgadmission.com/pg_admission/eligibility_Criteria.php
+* Prospectus 2019 - https://www.wbsupgadmission.com/pg_admission/pdf/PROSPECTUS-2019.pdf
+* Post graduate Homepage - https://www.wbsupgadmission.com/pg_admission/index.php
+* Admission dates
+<p align="center">
+  <img src="../images/wbsu_pg_admission_dates.png" alt="" width="" height="">
+</p>
+
+## Panjab University (PU)
+* Official Website - https://puchd.ac.in/
+* Important dates & information for Entrance test - 2019
+<p align="center">
+  <img src="../images/pu_cet_pg_important_dates.png" alt="" width="" height="">
+</p>
+* List of Derecognised universities
+<p align="center">
+  <img src="../images/pu_derecognised_universities.png" alt="" width="" height="">
+</p>
+* Contacts for PG programmes
+<p align="center">
+  <img src="../images/pu_cet_pg_contact.png" alt="" width="" height="">
+</p>
+* Admission Form
+<p align="center">
+  <img src="../images/pu_cet_pg_admission_form.png" alt="" width="" height="">
+</p>
+* Eligibility
+<p align="center">
+  <img src="../images/pu_ma_english_eligibility.png" alt="" width="" height="">
+</p>
+* Scheme of Test
+<p align="center">
+  <img src="../images/pu_ma_english_scheme_of_test.png" alt="" width="" height="">
+</p>
+* Sample Paper
+<p align="center">
+  <img src="../images/pu_ma_english_sample_paper_pt1.png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/pu_ma_english_sample_paper_pt2.png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/pu_ma_english_sample_paper_pt3.png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/pu_ma_english_sample_paper_pt4.png" alt="" width="" height="">
+</p>
+* M.A. English Date and Time
+<p align="center">
+  <img src="../images/pu_ma_english_exam_date_time.png" alt="" width="" height="">
+</p>
+* Exam Weightage
+<p align="center">
+  <img src="../images/pu_ma_english_exam_weightage.png" alt="" width="" height="">
+</p>
+
+## Rabindra Bharati University (RBU)
+* Official Website - http://www.rbu.ac.in/
+* Register yourself [__HERE__](http://admission.rbu.net.in/Login.aspx) for Regular Course.
+* How to apply
+<p align="center">
+  <img src="../images/rbu_how_to_apply.png" alt="" width="" height="">
+</p>
+* Documents during Admission
+<p align="center">
+  <img src="../images/rbu_documents_during_admission.png" alt="" width="" height="">
+</p>
+
+### RBU Distance Education Admission 2020
+* Admission Notice
+<p align="center">
+  <img src="../images/rbu_distance_education_registration_admission_dates.png" alt="" width="" height="">
+</p>
+* Distance Education Eligibility Criteria
+<p align="center">
+  <img src="../images/rbu_distance_education_eligibility_criteria.png" alt="" width="" height="">
+</p>
+* Distance Education Application Form
+<p align="center">
+  <img src="../images/rbu_distance_education_admission_application_form.png" alt="" width="" height="">
+</p>
+* Distance Education Application Procedure
+<p align="center">
+  <img src="../images/rbu_distance_education_admission_procedure.png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/rbu_distance_education_admission_procedure_2.png" alt="" width="" height="">
+</p>
+
+
+
+
+
+
+
+
+
