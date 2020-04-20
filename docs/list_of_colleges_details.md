@@ -44,17 +44,24 @@
 ## Presidency University
 * Official Website - https://presiuniv.ac.in/web/index.php
 * Admission page - https://presiuniv.ac.in/web/admission.php
-* Admission to PG courses - 2020. #FOLLOW
+* Admission to PG courses PUMDET- 2020-21 - https://wbjeeb.nic.in/PUMDETCMS/public/home.aspx
 <p align="center">
-  <img src="../images/presidency_univ_ma_admission.png" alt="" width="" height="">
+  <img src="../images/presidency_univ_pumdet_admission_application_form.jpg" alt="" width="" height="">
 </p>
+* Important dates - https://wbjeeb.nic.in/PUMDETCMS/Handler/FileHandler.ashx?i=File&ii=277&iii=Y
+<p align="center">
+  <img src="../images/presidency_univ_pumdet_admission_imp_dates.jpg" alt="" width="" height="">
+</p>
+* Old question paper (PUMDET MA English) - https://wbjeeb.nic.in/PUMDETCMS/Handler/FileHandler.ashx?i=File&ii=145&iii=Y
+  - Also, available in folder ("..\wife_univ_admission\docs\question papers")
 * Admission Guidelines
 <p align="center">
   <img src="../images/presidency_univ_admission_guidelines.png" alt="" width="" height="">
 </p>
+* Syllabus for PUMDET i.e. Click [here](./syllabus/presidency_univ_ug_english_syllabus.pdf) [SOURCE](https://www.presiuniv.ac.in/web/syllabus/ug_english.pdf)
 
 ## West Bengal State University (WBSU)
-* Official Website - https://presiuniv.ac.in/web/index.php
+* Official Website - https://wbsu.ac.in/
 * Admission page - https://wbsu.ac.in/admission-notice/
 <p align="center">
   <img src="../images/wbsu_all_admission_notice.png" alt="" width="" height="">
