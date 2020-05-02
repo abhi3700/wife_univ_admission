@@ -158,6 +158,9 @@
 
 ## Chandigarh University (CU)
 * Official Website - https://www.cuchd.in/
+* About M.A English course - https://www.cuchd.in/liberal-arts-and-humanities/ma-english.php
+* About Scholarship - https://www.cuchd.in/scholarship/
+* Eligibility - Bachelor Degree with English as a compulsory subject in all Sem./Year with atleast 50% marks in Aggregate also 50% marks in English subject (45% in case of SC/ST category) OR __Bachelor of Arts (Hons.) in English with 50% marks aggregate__.
 * Websites
   - Question paper: http://cucet.cuchd.in/question-paper.php
   - List of Post graduation Courses: http://cucet.cuchd.in/afterGraduation.php
@@ -192,7 +195,7 @@
     + 50-59.9 --> 15%
     + 60-69.9 --> 20%
     + 70-79.9 --> 30%
-    + 80-89.9 --> 40%
+    + 80-94.9 --> 40%
     + 95+ --> 100%
   - Fee structure
     +fresher party - nominal
