@@ -156,6 +156,51 @@
   <img src="../images/rbu_distance_education_admission_procedure_2.png" alt="" width="" height="">
 </p>
 
+## Chandigarh University (CU)
+* Official Website - https://www.cuchd.in/
+* Websites
+  - Question paper: http://cucet.cuchd.in/question-paper.php
+  - List of Post graduation Courses: http://cucet.cuchd.in/afterGraduation.php
+* CU-CET (2020) 
+  - online examination
+  - Apply here - http://cucet.cuchd.in/application-process.php
+  - Fee: __Rs. 500__
+  - Prospectus - __Rs. 500__
+  - Examination last date: __20th may, 2020__
+  - Sample question paper: http://cucet.cuchd.in/sample-papers.php
+    + English (10 Qs.)
+<p align="center">
+  <img src="../images/chand_univ_sample_questionpaper_english.jpg" alt="" width="" height="">
+</p>
+    + Basic Computer Knowledge (30 Qs.)
+<p align="center">
+  <img src="../images/chand_univ_sample_questionpaper_basiccomputer_knowledge.jpg" alt="" width="" height="">
+</p>
+    + logical reasoning (30 Qs.)
+<p align="center">
+  <img src="../images/chand_univ_sample_questionpaper_logical.jpg" alt="" width="" height="">
+</p>
+    + Quantitative Aptitude (30 Qs.)
+<p align="center">
+  <img src="../images/chand_univ_sample_questionpaper_quantitative.jpg" alt="" width="" height="">
+</p>
+  - Exam time: 2 hrs
+  - Marking: 100 Qs. (1 mark each), No negative marking
+  - Passing mark (for scholarship): __40__ min. score
+  - Scholarship Slab
+    + 40-49.9 --> 5%
+    + 50-59.9 --> 15%
+    + 60-69.9 --> 20%
+    + 70-79.9 --> 30%
+    + 80-89.9 --> 40%
+    + 95+ --> 100%
+  - Fee structure
+    +fresher party - nominal
+    +examination - 2000/-
+    +competition - 
+    +tuition fee/semester - M.A (english) - 25,000
+
+  - Seat Registration fee (advanced): 10,000 (No last date | first come, first serve basis)
 
 
 
