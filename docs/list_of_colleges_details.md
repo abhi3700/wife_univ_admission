@@ -62,6 +62,7 @@
 
 ## West Bengal State University (WBSU)
 * Official Website - https://wbsu.ac.in/
+* WBSU Entrance Exam 2020 - https://collegedunia.com/university/26025-west-bengal-state-university-wbsu-barasat/admission
 * Admission page - https://wbsu.ac.in/admission-notice/
 <p align="center">
   <img src="../images/wbsu_all_admission_notice.png" alt="" width="" height="">
@@ -75,8 +76,17 @@
   <img src="../images/wbsu_pg_admission_dates.png" alt="" width="" height="">
 </p>
 
+
 ## Panjab University (PU)
 * Official Website - https://puchd.ac.in/
+* PU-CET (P.G.) 2020 ENTRANCE TEST websites:
+	- Home: https://cetpg.puchd.ac.in/
+	-	Contact: https://cetpg.puchd.ac.in/contactus.php
+	- Login: https://cetpg.puchd.ac.in/login.php
+	- Instructions: https://cetpg.puchd.ac.in/instructions.php
+	- Prospectus: https://cetpg.puchd.ac.in/pdf/prospectus20_190520.pdf
+
+#####todo - Need to update with prospectus 2020_19May
 * Important dates & information for Entrance test - 2019
 <p align="center">
   <img src="../images/pu_cet_pg_important_dates.png" alt="" width="" height="">
@@ -204,11 +214,3 @@
     +tuition fee/semester - M.A (english) - 25,000
 
   - Seat Registration fee (advanced): 10,000 (No last date | first come, first serve basis)
-
-
-
-
-
-
-
-
