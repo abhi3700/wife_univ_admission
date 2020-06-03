@@ -1,4 +1,14 @@
 # Details of colleges with PG Admission for MA English Course
+## Contents
+1. [St. Xavier's University, Kolkata](#st-xaviers-university-kolkata)
+1. [Calcutta University](#calcutta-university)
+1. [Jadavpur University](#jadavpur-university)
+1. [Presidency University](#presidency-university)
+1. [West Bengal State University (WBSU)](#west-bengal-state-university-wbsu)
+1. [Panjab University (PU)](#panjab-university-pu)
+1. [Rabindra Bharati University (RBU)](#rabindra-bharati-university-rbu)
+1. [Chandigarh University](#chandigarh-university)
+
 ##  St. Xavier's University, Kolkata
 ### Website
 * Official Website - https://www.sxuk.edu.in/default.htm
@@ -33,6 +43,7 @@
 ## Calcutta University
 * Form starting date: __09-July-2020__ in CU website.
 * Form last date: __16-July-2020__
+* Refer this - https://collegedunia.com/university/26018-university-of-calcutta-kolkata/admission
 
 ## Jadavpur University
 * Official Website - http://www.jaduniv.edu.in/
@@ -166,7 +177,7 @@
   <img src="../images/rbu_distance_education_admission_procedure_2.png" alt="" width="" height="">
 </p>
 
-## Chandigarh University (CU)
+## Chandigarh University
 * Official Website - https://www.cuchd.in/
 * About M.A English course - https://www.cuchd.in/liberal-arts-and-humanities/ma-english.php
 * About Scholarship - https://www.cuchd.in/scholarship/
